@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include "objParser.h"
-
+//versione iniziale
 using namespace std;
 
 int main(int argc, char** argv)
