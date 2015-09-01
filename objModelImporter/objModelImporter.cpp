@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 
 	string obj_filename;
 	string out_filename;
-	string ciao;
+	
 
 
 	if (argc > 1)
